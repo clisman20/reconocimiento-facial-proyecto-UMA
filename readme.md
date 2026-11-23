@@ -1,7 +1,8 @@
 # Reconocimiento facial con Python y OpenCV
 
 Proyecto de primer semestre de Ingeniería Mecatrónica.
-Autor: Tu Nombre
+Autor: Clisman Francisco Maquirino
+y otros
 
 ## Versiones
 
